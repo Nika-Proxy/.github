@@ -6,6 +6,7 @@
 
 [![Website](https://img.shields.io/badge/Website-nikaproxy.com-d4af37?style=for-the-badge)](https://nikaproxy.com)
 [![Docs](https://img.shields.io/badge/Docs-Read-cyan?style=for-the-badge)](https://nikaproxy.com/docs)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865f2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xeeDxZMRh)
 [![Telegram](https://img.shields.io/badge/Telegram-Support-26a5e4?style=for-the-badge&logo=telegram)](https://t.me/Nikaproxy_support)
 
 </div>
@@ -55,7 +56,8 @@ What we *do* publish â€” the example code, the docs, the educational guides, the
 
 ## Need help?
 
-- **Telegram** (fastest): [@Nikaproxy_support](https://t.me/Nikaproxy_support)
+- **Discord**: [discord.gg/xeeDxZMRh](https://discord.gg/xeeDxZMRh) — main community, fastest reply
+- **Telegram**: [@Nikaproxy_support](https://t.me/Nikaproxy_support) — 1-on-1 support
 - **Docs**: [nikaproxy.com/docs](https://nikaproxy.com/docs)
 - **Status / changelog**: [nikaproxy.com](https://nikaproxy.com)
 
