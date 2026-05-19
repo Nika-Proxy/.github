@@ -26,22 +26,32 @@ A residential proxy that matches a real browser at every layer of the stack — 
 
 ## Repos here
 
-| Repo | What it's for |
+### Get started
+
+| Repo | What for |
 |---|---|
-| [nikaproxy-examples](https://github.com/Nikaproxy-tls/nikaproxy-examples) | Runnable starter code in Python, Node, Go, PHP, and curl |
-| [nikaproxy-docs](https://github.com/Nikaproxy-tls/nikaproxy-docs) | Full customer-facing docs in Markdown (also mirrored at [nikaproxy.com/docs](https://nikaproxy.com/docs)) |
+| 🚀 [**nikaproxy-examples**](https://github.com/Nika-Proxy/nikaproxy-examples) | Runnable starter code in Python, Node, Go, PHP, and curl |
+| 📚 [**nikaproxy-docs**](https://github.com/Nika-Proxy/nikaproxy-docs) | Customer-facing docs (mirror of [nikaproxy.com/docs](https://nikaproxy.com/docs)) |
+
+### Learn
+
+| Repo | What for |
+|---|---|
+| 🎓 [**tls-fingerprint-101**](https://github.com/Nika-Proxy/tls-fingerprint-101) | From-scratch guide to TLS / TCP / HTTP fingerprinting for web scraping engineers |
+| 📊 [**tls-fingerprint-research**](https://github.com/Nika-Proxy/tls-fingerprint-research) | Quarterly empirical data on the residential proxy market — device-family distributions, methodology, raw datasets |
+| 🌟 [**awesome-tls-fingerprinting**](https://github.com/Nika-Proxy/awesome-tls-fingerprinting) | Curated list of tools, libraries, and services in the TLS-fingerprinting ecosystem |
 
 ## Get an account
 
 1. Sign up at [nikaproxy.com](https://nikaproxy.com) — 100 MB free credit on signup, no card needed
 2. Grab your API key + proxy password from the dashboard
-3. Pick an example from [nikaproxy-examples](https://github.com/Nikaproxy-tls/nikaproxy-examples), paste in your creds, run it
+3. Pick an example from [nikaproxy-examples](https://github.com/Nika-Proxy/nikaproxy-examples), paste in your creds, run it
 
 ## What we don't open-source
 
 The engine. The TLS profiles. The T4-T7 coordinator. The prober. These are the moat.
 
-What we *do* publish — these example repos, the docs, and (soon) an empirical research write-up on the state of TCP fingerprints in the residential proxy market — is the on-ramp. Use them, file issues, send PRs. The engine itself stays in the vault.
+What we *do* publish — the example code, the docs, the educational guides, the market research data — is the on-ramp + the reason people in the anti-bot ecosystem talk to us. Use it, file issues, send PRs. The engine itself stays in the vault.
 
 ## Need help?
 
